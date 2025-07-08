@@ -29,7 +29,6 @@ public class HotelReservation {
             }
         }
 
-        //add new line
         System.out.println();
     }
 
