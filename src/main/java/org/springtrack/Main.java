@@ -17,8 +17,7 @@ public class Main {
             System.out.println("4. Exit");
             System.out.print("Enter Choice: ");
             choice = inputReader.nextInt();
-
-            //add new line
+            
             System.out.println();
 
             switch (choice) {
